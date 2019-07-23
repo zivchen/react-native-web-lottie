@@ -2,7 +2,7 @@
   "name": "react-native-web-lottie-light",
   "version": "1.2.0",
   "description": "React Native for Web implementation of Lottie light",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "main-es": "src/index.js",
   "repository": {
     "type": "git",
