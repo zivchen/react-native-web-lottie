@@ -1,5 +1,5 @@
 # react-native-web-lottie
-> React Native for Web implementation of Lottie
+> React Native for Web implementation of Lottie light
 
 ## Getting started
 `$ npm install react-native-web-lottie --save`
